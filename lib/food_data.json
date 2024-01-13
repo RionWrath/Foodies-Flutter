@@ -1,0 +1,14 @@
+[
+    { "name": "Mie Ayam", "Porsi": "240g", "calories": "421kkl", "Protein": "16g", "Lemak": "18,74g", "image_url": "assets/images/mie_ayam.jpg" },
+    { "name": "Bakso Sapi", "Porsi": "100g", "calories": "57kkl", "Protein": "3,47g", "Lemak": "3,69g", "image_url": "" },
+    { "name": "Nasi Goreng", "Porsi": "", "calories": "", "Protein": "", "Lemak": "", "image_url": "" },
+    { "name": "Kwetiau", "Porsi": "", "calories": "", "Protein": "", "Lemak": "", "image_url": "" },
+    { "name": "Bakmi", "Porsi": "", "calories": "", "Protein": "", "Lemak": "", "image_url": "" },
+    { "name": "Fried Chicken", "Porsi": "", "calories": "", "Protein": "", "Lemak": "", "image_url": "" },
+    { "name": "Ayam geprek", "Porsi": "", "calories": "", "Protein": "", "Lemak": "", "image_url": "" },
+    { "name": "Pizza", "Porsi": "", "calories": "", "Protein": "", "Lemak": "", "image_url": "" },
+    { "name": "Burger", "Porsi": "", "calories": "", "Protein": "", "Lemak": "", "image_url": "" },
+    { "name": "Telur", "Porsi": "", "calories": "", "Protein": "", "Lemak": "", "image_url": "" }
+
+
+]
